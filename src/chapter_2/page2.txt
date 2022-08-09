@@ -4,6 +4,4 @@ page 2 of my book
 
 some work here
 
-and there will be more stories here.
-
 I edit page 2 after I commit it.
